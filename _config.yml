@@ -115,6 +115,10 @@ author:
   #GitHub           : "EdbertoLima"
   
   links:
+  
+    - label: "Currículo Lattes"
+      icon: "fas fa-scroll"
+      url: "http://lattes.cnpq.br/8563560554688579"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: mailto:your.name@email.com
@@ -144,7 +148,7 @@ author:
       url: "https://www.linkedin.com/in/edbertolima/"
      
       
-      
+
       
 # Site Footer
 footer:
