@@ -107,11 +107,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Edberto Moura Lima"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  location         : "Brazil"
+  email            : "edberto.moura@gmail.com"
+  
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
