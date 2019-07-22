@@ -122,8 +122,8 @@ author:
       icon: "fab fa-researchgate"
       url: "https://www.researchgate.net/profile/Edberto_Lima"
     - label: " ORCID®"
-      icon: "/images/ORCIDiD_icon16x16.png"
-      url: "https://www.researchgate.net/profile/Edberto_Lima"
+      icon: /images/ORCIDiD_icon16x16.png
+      url: "https://orcid.org/0000-0002-8447-8460"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
