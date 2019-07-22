@@ -118,6 +118,12 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: mailto:your.name@email.com
+      
+      - label: "Researchgate"
+      icon: "fab fa-researchgate"
+      url: https://www.researchgate.net/profile/Edberto_Lima
+      
+      
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -136,6 +142,8 @@ author:
     - label: "Linkedin"
       icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/edbertolima/"
+      
+      
       
       
 # Site Footer
