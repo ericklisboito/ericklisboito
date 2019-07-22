@@ -109,15 +109,21 @@ analytics:
 author:
   name             : "Edberto Moura Lima"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
+  bio              : "Phd Student"
   location         : "Brazil"
   email            : "edberto.moura@gmail.com"
-  GitHub           : "EdbertoLima"
+  #GitHub           : "EdbertoLima"
   
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: mailto:your.name@email.com
+    - label: "Researchgate"
+      icon: "fab fa-researchgate"
+      url: "https://www.researchgate.net/profile/Edberto_Lima"
+    - label: " ORCID®"
+      #icon: "fab fa-researchgate"
+      url: "https://www.researchgate.net/profile/Edberto_Lima"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -129,13 +135,15 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-       url: "https://github.com/"
+      url: "https://github.com/EdbertoLima"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
     - label: "Linkedin"
       icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/edbertolima/"
+     
+      
       
       
 # Site Footer
@@ -149,7 +157,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://github.com/EdbertoLima"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -159,8 +167,11 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url:
+    - label: "Linkedin"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/edbertolima/"
 
-
+      
 # Reading Files
 include:
   - .htaccess
