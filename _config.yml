@@ -82,7 +82,7 @@ author:
   name             : "Edberto Lima"
   avatar           : "/assets/images/bio-photo-new_cropped.jpg"
   bio              : "Phd Student"
-  location         : "Universidade Federal de Santa Maria, Brazil"
+  location         : "UFSM, Brazil"
   email            : "edberto.moura@gmail.com"
   uri              : #"http://www.mn.uio.no/ibv/english/people/aca/jonbra/index.html"
   bitbucket        :
@@ -107,8 +107,8 @@ author:
   weibo            :
   xing             :
   youtube          : # "https://youtube.com/c/MichaelRoseDesign"
-#  orcid            : "0000-0003-0490-1175"
-#  researchgate     : "Jon_Brate"
+  orcid            : "0000-0002-8447-8460"
+  researchgate     : "EdbertoLima"
 
 
 # Reading Files
