@@ -116,7 +116,7 @@ author:
   
   links:
     - label: "Currículo Lattes"
-      icon: "fas fa-scroll"
+      icon: "ai ai-lattes-square ai-fw"
       url: "http://lattes.cnpq.br/8563560554688579"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
