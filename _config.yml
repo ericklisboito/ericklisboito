@@ -115,13 +115,6 @@ author:
   #GitHub           : "EdbertoLima"
   
   links:
-  
-  - label: "ORCID®"
-  <li>
-    <a href="https://orcid.org/0000-0002-8447-8460" itemprop="sameAs">
-      <i class="ai ai-orcid-square ai-3x"></i> ORCID
-    </a>
-  </li>
     - label: "Currículo Lattes"
       icon: "fas fa-scroll"
       url: "http://lattes.cnpq.br/8563560554688579"
