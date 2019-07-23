@@ -13,7 +13,7 @@
 /*
    Variables
    ========================================================================== */
-
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 @import "variables";
 
@@ -76,5 +76,5 @@ $susy: (
 
 @import "page";
 @import "archive";
-/*@import "sidebar";*/
+@import "sidebar";
 @import "print";
