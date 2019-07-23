@@ -14,6 +14,7 @@
    Variables
    ========================================================================== */
 
+@import "minimal-mistakes"; // main partials
 @import "variables";
 
 
@@ -64,7 +65,7 @@ $susy: (
 @import "notices";
 @import "masthead";
 @import "navigation";
-@import "footer";
+/*@import "footer";*/
 @import "syntax";
 @import "forms";
 
