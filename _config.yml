@@ -118,40 +118,35 @@ author:
   - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:edberto.moura@gmail.com"
-  
-    - label: "Currículo Lattes"
+    - label: "CurrículoLattes"
       icon: "ai ai-lattes-square ai-fw"
       url: "http://lattes.cnpq.br/8563560554688579"
-    
     - label: "ResearchGate"
       icon: "ai ai-researchgate-square ai-fw"
       url: "https://www.researchgate.net/profile/Edberto_Lima"
     - label: "ORCID"
       icon: "ai ai-orcid-square ai-fw"
       url: "https://orcid.org/0000-0002-8447-8460"
-   
    - label: "Linkedin"
       icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/edbertolima/"
-      
-   - label: "Website"
-      icon: "fas fa-fw fa-link"
+  
+   #- label: "Website"
+   #   icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
+   # - label: "Twitter"
+   #   icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
+   # - label: "Facebook"
+   #   icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/EdbertoLima"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
+   # - label: "Instagram"
+   #   icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
-    - label: "Linkedin"
-      icon: "fab fa-linkedin"
-      url: "https://www.linkedin.com/in/edbertolima/"
+
      
       
 
