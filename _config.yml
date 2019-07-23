@@ -107,12 +107,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Edberto Lima"
+  name             : "Edberto Moura"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Phd Student."
   location         : "Brazil"
   email            : 
   links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      # url: mailto:your.name@email.com
     - label: "Currículo Lattes"
       icon: "ai ai-lattes-square ai-fw"
       url: "http://lattes.cnpq.br/8563560554688579"
