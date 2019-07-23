@@ -107,26 +107,29 @@ analytics:
 
 # Site Author
 author:
-  name             : "Edberto M. Lima"
+  name             : "Edberto Lima"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Phd Student."
   location         : "Brazil"
-  email            : "edberto.moura@gmail.com"
+  email            : 
   #GitHub           : "EdbertoLima"
   
   links:
     - label: "Currículo Lattes"
       icon: "ai ai-lattes-square ai-fw"
       url: "http://lattes.cnpq.br/8563560554688579"
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:edberto.moura@gmail.com"
-    - label: "ResearchGate"
+   - label: "ResearchGate"
       icon: "ai ai-researchgate-square ai-fw"
       url: "https://www.researchgate.net/profile/Edberto_Lima"
     - label: "ORCID"
       icon: "ai ai-orcid-square ai-fw"
       url: "https://orcid.org/0000-0002-8447-8460"
+    - label: "Linkedin"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/edbertolima/"
+   - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      # url: "mailto:edberto.moura@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -142,9 +145,7 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
-    - label: "Linkedin"
-      icon: "fab fa-linkedin"
-      url: "https://www.linkedin.com/in/edbertolima/"
+
      
       
 
