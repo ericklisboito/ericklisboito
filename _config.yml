@@ -115,19 +115,26 @@ author:
   #GitHub           : "EdbertoLima"
   
   links:
+  - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:edberto.moura@gmail.com"
+  
     - label: "Currículo Lattes"
       icon: "ai ai-lattes-square ai-fw"
       url: "http://lattes.cnpq.br/8563560554688579"
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:edberto.moura@gmail.com"
+    
     - label: "ResearchGate"
       icon: "ai ai-researchgate-square ai-fw"
       url: "https://www.researchgate.net/profile/Edberto_Lima"
     - label: "ORCID"
       icon: "ai ai-orcid-square ai-fw"
       url: "https://orcid.org/0000-0002-8447-8460"
-    - label: "Website"
+   
+   - label: "Linkedin"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/edbertolima/"
+      
+   - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
     - label: "Twitter"
