@@ -117,7 +117,7 @@ author:
   links:
   - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:edberto.moura@gmail.com"
+      #url: "mailto:edberto.moura@gmail.com"
     - label: "CurrículoLattes"
       icon: "ai ai-lattes-square ai-fw"
       url: "http://lattes.cnpq.br/8563560554688579"
