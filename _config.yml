@@ -107,7 +107,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Edberto Moura Lima"
+  name             : "Edberto M. Lima"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Phd Student."
   location         : "Brazil"
@@ -142,7 +142,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
-
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      #url: "mailto:edberto.moura@gmail.com"
      
       
 
