@@ -124,7 +124,7 @@ author:
     - label: "ResearchGate"
       icon: "ai ai-researchgate-square ai-fw"
       url: "https://www.researchgate.net/profile/Edberto_Lima"
-      - label: "GoogleScholar"
+    - label: "GoogleScholar"
       icon: "ai ai-google-scholar-square ai-3x"
       url: "https://scholar.google.com/citations?user=rbwTqKIAAAAJ&hl=en"
     - label: "ORCID"
