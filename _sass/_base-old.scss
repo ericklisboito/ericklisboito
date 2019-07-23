@@ -116,20 +116,10 @@ a {
     @extend %tab-focus;
   }
 
-  &:visited {
-    color: $link-color-visited;
-  }
-
-  &:hover {
-    color: $link-color-hover;
+  &:hover,
+  &:active {
     outline: 0;
   }
-}
-
-/* buttons */
-
-button:focus {
-  @extend %tab-focus;
 }
 
 /* code */
