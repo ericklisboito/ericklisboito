@@ -111,7 +111,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Phd Student."
   location         : "Brazil"
-  email            : "edberto.moura@gmail.com"
+  #email            : "edberto.moura@gmail.com"
   #GitHub           : "EdbertoLima"
   
   links:
@@ -120,7 +120,7 @@ author:
       url: "http://lattes.cnpq.br/8563560554688579"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:your.name@email.com
+       url: mailto:edberto.moura@gmail.com
     - label: "ResearchGate"
       icon: "ai ai-researchgate-square ai-fw"
       url: "https://www.researchgate.net/profile/Edberto_Lima"
