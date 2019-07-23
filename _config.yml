@@ -112,7 +112,7 @@ author:
   bio              : "Phd Student."
   location         : "Brazil"
   email            : "edberto.moura@gmail.com"
-  #GitHub           : "EdbertoLima"
+ 
   
   links:
   - label: "Email"
@@ -130,21 +130,20 @@ author:
    - label: "Linkedin"
       icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/edbertolima/"
-  
-   #- label: "Website"
-   #   icon: "fas fa-fw fa-link"
+   - label: "Website"
+      icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
-   # - label: "Twitter"
-   #   icon: "fab fa-fw fa-twitter-square"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
-   # - label: "Facebook"
-   #   icon: "fab fa-fw fa-facebook-square"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/EdbertoLima"
-   # - label: "Instagram"
-   #   icon: "fab fa-fw fa-instagram"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
 
      
