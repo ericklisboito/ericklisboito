@@ -1,22 +1,22 @@
 # main links
 main:
   - title: "Research"
-    url: /research/
+    #url: /research/
 
   - title: "Blog"
-    url: /blog/
+    #url: /blog/
 
   - title: "Publications"
-    url: /publications/
+    #url: /publications/
 
 # - title: "Talks and media"
 #   url: /talks/
 
   - title: "Resources"
-    url: /resources/
+    #url: /resources/
     
   - title: "CV"
-    url: /CV_Jon_Brate-HomePage.pdf
+    #url: /CV_Jon_Brate-HomePage.pdf
     
   # - title: "Sample Posts"
   #   url: /year-archive/
