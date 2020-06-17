@@ -19,7 +19,7 @@ locale                   : "en"
 title                    : "Home"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Edberto Lima"
+name                     : "Éricklis Edson Boito de Souza"
 description              : "A brief description about doctoral student life."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
